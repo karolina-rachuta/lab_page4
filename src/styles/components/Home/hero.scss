@@ -1,0 +1,24 @@
+.hero {
+    background-image: url(../../../assets/background.webp);
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+
+    h1 {
+        color: #fff;
+        padding-left: toRem(30px);
+        padding-right: toRem(30px);
+        padding-bottom: toRem(30px);
+        max-width: 80%;
+        text-align: right;
+        z-index: 1;
+
+        @media only screen and (max-width: toRem(650px)) {
+            text-align: center;
+            padding-left: toRem(20px);
+            padding-right: toRem(20px);
+        }
+    }
+}

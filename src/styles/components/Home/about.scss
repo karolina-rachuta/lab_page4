@@ -1,0 +1,34 @@
+.about {
+    width: 100%;
+    background-color: $bg-color;
+    color: $text-color;
+    padding-top: toRem(50px);
+    padding-bottom: toRem(50px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-inline: toRem(5px);
+
+    &__text-box {
+        width: 90%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: toRem(30px);
+        flex-direction: column;
+        text-align: justify;
+
+        .about__hdl {
+            text-align: center;
+            font-family: "Open Sans", sans-serif;
+            font-weight: 600;
+
+        }
+
+        .about__text {
+            font-weight: 200;
+            line-height: 1.5;
+        }
+    }
+
+}
