@@ -1,7 +1,12 @@
+import Chemikum from '../assets/chemicum.webp';
 function Hero () {
     return (
         <div className="hero" height="500">
-          <h1>Laboratory of Spectroscopy</h1>
+          <div className="hero-text__container">
+          <h2>Welcome to</h2>
+          <h1>NanoMaterials & Light Group</h1>
+          </div>
+          <img height="300" src={Chemikum} alt="Chemistry departent Building" />
         </div>
     )
 }
