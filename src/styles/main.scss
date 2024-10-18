@@ -1,6 +1,7 @@
 @import './settings/reset.scss';
 @import './settings/variables.scss';
 @import './settings/utils.scss';
+@import './settings/fonts.scss';
 @import './components/navbar.scss';
 @import './components/footer.scss';
 @import './components/home/hero.scss';
@@ -22,7 +23,7 @@ body {
 }
 
 body::before {
-    content: url(../assets/background.webp);
+    content: url(../assets/chemicum.webp);
     position: absolute;
     top: -9999rem;
     left: -9999rem;

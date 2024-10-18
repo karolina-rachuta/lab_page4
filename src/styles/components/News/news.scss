@@ -4,7 +4,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: $background-news;
+    // background: $background-news;
+    background-color: $background;
 
     &__hdl {
         background-color: $hdl-background;

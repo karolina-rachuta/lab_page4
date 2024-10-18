@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2a2959f.css",
+    "main.js": "/static/js/main.02486298.js",
+    "static/js/563.4c166574.chunk.js": "/static/js/563.4c166574.chunk.js",
+    "static/js/323.cbd26d6e.chunk.js": "/static/js/323.cbd26d6e.chunk.js",
+    "static/js/520.863ddd9c.chunk.js": "/static/js/520.863ddd9c.chunk.js",
+    "static/js/929.c20e52cd.chunk.js": "/static/js/929.c20e52cd.chunk.js",
+    "static/js/667.d59225b6.chunk.js": "/static/js/667.d59225b6.chunk.js",
+    "static/js/453.d2ff6b00.chunk.js": "/static/js/453.d2ff6b00.chunk.js",
+    "static/media/Logo_UAM_kolor_RGB.webp": "/static/media/Logo_UAM_kolor_RGB.fbe7d50482795fcaebfc.webp",
+    "static/media/avatar.png": "/static/media/avatar.a0d234cbc4e1578c1c85.png",
+    "static/media/chemicum.webp": "/static/media/chemicum.a13465126320644e8ac0.webp",
+    "static/media/article.webp": "/static/media/article.19e91f30f3dd9c9fc9a4.webp",
+    "static/media/location.webp": "/static/media/location.c8228fc203a89165ee5d.webp",
+    "static/media/tel.webp": "/static/media/tel.fa9af2f440bcde64d590.webp",
+    "static/media/email.webp": "/static/media/email.230c91844ade5bb9dacd.webp",
+    "index.html": "/index.html",
+    "main.a2a2959f.css.map": "/static/css/main.a2a2959f.css.map",
+    "main.02486298.js.map": "/static/js/main.02486298.js.map",
+    "563.4c166574.chunk.js.map": "/static/js/563.4c166574.chunk.js.map",
+    "323.cbd26d6e.chunk.js.map": "/static/js/323.cbd26d6e.chunk.js.map",
+    "520.863ddd9c.chunk.js.map": "/static/js/520.863ddd9c.chunk.js.map",
+    "929.c20e52cd.chunk.js.map": "/static/js/929.c20e52cd.chunk.js.map",
+    "667.d59225b6.chunk.js.map": "/static/js/667.d59225b6.chunk.js.map",
+    "453.d2ff6b00.chunk.js.map": "/static/js/453.d2ff6b00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2a2959f.css",
+    "static/js/main.02486298.js"
+  ]
+}

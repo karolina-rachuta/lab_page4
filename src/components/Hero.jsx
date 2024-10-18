@@ -6,7 +6,7 @@ function Hero () {
           <h2>Welcome to</h2>
           <h1>NanoMaterials & Light Group</h1>
           </div>
-          <img height="300" src={Chemikum} alt="Chemistry departent Building" />
+          <img width="590" height="480" src={Chemikum} alt="Chemistry departent Building" />
         </div>
     )
 }
