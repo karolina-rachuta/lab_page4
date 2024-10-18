@@ -4,10 +4,10 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: $bg-color;
+    background: $background;
 
     &__hdl {
-        background-color: rgb(225, 164, 41);
+        background-color: $hdl-background;
         width: 100%;
         min-height: toRem(50px);
         font-weight: 300;
@@ -17,6 +17,7 @@
         justify-content: center;
         align-items: center;
         padding: toRem(10px);
+        padding-top: toRem(20px);
     }
 
     &__list {
