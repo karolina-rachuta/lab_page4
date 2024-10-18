@@ -53,6 +53,10 @@
                 align-items: center;
             }
 
+            .person__name {
+                color: $secendary-color;
+            }
+
             .person__img {
                 max-width: toRem(200px);
                 height: auto;

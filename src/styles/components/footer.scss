@@ -1,8 +1,8 @@
 .footer {
     width: 100%;
-    min-height: toRem(60px);
-    padding-top: toRem(20px);
-    padding-bottom: toRem(20px);
+    min-height: toRem(90px);
+    padding-top: toRem(10px);
+    padding-bottom: toRem(10px);
     padding-inline: toRem(20px);
     background-color: #fff;
     display: flex;
@@ -14,7 +14,7 @@
     }
 
     &__logo {
-        width: toRem(40px);
+        width: toRem(60px);
         height: auto;
     }
 

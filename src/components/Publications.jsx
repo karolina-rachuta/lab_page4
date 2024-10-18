@@ -24,7 +24,7 @@ function Publications() {
             }) => (
               <div className="publication-box">
                 <div className="publication__title">
-                  <img src={Articleicon} alt="" style={{ width: "50px" }} />
+                  {/* <img src={Articleicon} alt="" style={{ width: "50px" }} /> */}
                   <h3 className="text-box__hdl"> {title}</h3>
                 </div>
                 <p className="publication__authors">
@@ -42,11 +42,11 @@ function Publications() {
                 <p className="publication__text">{short_description}</p>
                 <a className="publication__link" href="{url}">
                   More{" "}
-                  <img
+                  {/* <img
                     className="publication__linkIcon"
                     src={LinkIcon}
                     alt="Link icon"
-                  />
+                  /> */}
                 </a>
               </div>
             )

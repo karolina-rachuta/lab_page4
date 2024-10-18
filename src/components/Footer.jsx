@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Logo from "../assets/logo.webp";
+import Logo from "../assets/Logo_UAM_kolor_RGB.webp";
 import PhoneIcon from "../assets/tel.webp";
 import EmailIcon from "../assets/email.webp";
 import LocationIcon from "../assets/location.webp";
@@ -9,7 +9,7 @@ function Footer() {
   return (
     <div className="footer">
       <Link to="/">
-        <img className="footer__logo" src={Logo} alt="Logo icon" />
+        <img className="footer__logo" width="80" height="80" src={Logo} alt="Logo icon" />
       </Link>
       <div className="footer__text-box">
         <p className="footer__text"><img className="footer__img" src={EmailIcon} alt="Email icon" /> xyz@amu.edu.pl</p>

@@ -16,11 +16,11 @@ function Positions() {
           </p>
           <Link className="positions__link" to="/contact">
             Contact for more information{" "}
-            <img
+            {/* <img
               className="positions__icon"
               src={NextLink}
               alt="Icon to be transferred"
-            />
+            /> */}
           </Link>
         </div>
       </div>

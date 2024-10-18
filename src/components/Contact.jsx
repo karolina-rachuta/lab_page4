@@ -4,6 +4,7 @@ import Footer from "./Footer";
 import PhoneIcon from "../assets/tel.webp";
 import EmailIcon from "../assets/email.webp";
 import LocationIcon from "../assets/location.webp";
+import Chemicum from "../assets/chemicum.webp";
 
 function Contact() {
   return (
@@ -46,6 +47,7 @@ function Contact() {
                 A, room X.Y
               </p>
             </div>
+            <img className="contact__img" src={Chemicum} alt="Building of Department of Chemistry" />
           </div>
         </div>
       </div>

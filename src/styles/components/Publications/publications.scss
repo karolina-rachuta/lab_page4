@@ -64,6 +64,7 @@
                 align-items: center;
                 justify-content: center;
                 gap: toRem(10px);
+                color: $secendary-color;
             }
 
             .publication__link {
@@ -72,7 +73,7 @@
                 display: flex;
                 align-items: center;
                 gap: toRem(5px);
-                color: rgb(225, 164, 41);
+                color: $secendary-color;
             }
 
             .publication__linkIcon {

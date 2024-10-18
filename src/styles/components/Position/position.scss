@@ -44,7 +44,7 @@
         text-align: justify;
 
         @media only screen and (max-width: toRem(770px)) {
-            padding: toRem(100px) toRem(20px);
+            padding: toRem(150px) toRem(20px);
         }
     }
 
@@ -54,10 +54,15 @@
         align-items: center;
         gap: toRem(10px);
         margin-top: toRem(20px);
-        color: rgb(225, 164, 41);
+        color: white;
         font-weight: bold;
         text-decoration: none;
         cursor: pointer;
+        border-bottom: 2px solid transparent;
+
+        &:hover {
+            border-bottom: 2px solid $secendary-color;
+        }
     }
 
     &__icon {
