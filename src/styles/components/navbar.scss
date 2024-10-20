@@ -1,7 +1,5 @@
 .header {
     width: 100%;
-    // padding-top: toRem(20px);
-    // padding-bottom: toRem(20px);
     padding-inline: toRem(15px);
     background-color: #fff;
     display: flex;
@@ -92,14 +90,10 @@
 
             &:hover {
                 border-bottom: 3px solid $secendary-color;
-                // background-color: lightblue;
-                // border-radius: toRem(10px);
             }
 
             &.current {
                 border-bottom: 3px solid $secendary-color;
-                // background-color: lightblue;
-                // border-radius: toRem(10px);
             }
         }
     }

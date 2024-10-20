@@ -2,7 +2,6 @@
     width: 100%;
     min-height: 480px;
     height: 100%;
-    // background: $background-hero;
     background-color: $background;
     display: flex;
     justify-content: space-around;
@@ -23,7 +22,6 @@
         width: 100%;
 
         @media only screen and (min-width: toRem(576px)) and (max-width: toRem(980px)) {
-            // margin: 0 auto;
             text-align: center;
             display: flex;
             flex-direction: column;
@@ -33,7 +31,6 @@
         }
 
         @media only screen and (max-width: toRem(576px)) {
-            // margin: 0 auto;
             text-align: center;
             display: flex;
             flex-direction: column;
@@ -48,7 +45,6 @@
             padding-right: toRem(30px);
             padding-bottom: toRem(30px);
             max-width: 80%;
-            // text-align: left;
             text-transform: uppercase;
 
             @media only screen  and (min-width: toRem(576px)) and (max-width: toRem(650px)) {
@@ -68,7 +64,6 @@
             text-transform: uppercase;
             padding:toRem(30px);
             max-width: 80%;
-            // text-align: left;
         }
     }
 
